@@ -1,0 +1,22 @@
+# Aviso: todos los datos de este archivo son inventados.
+# No son movimientos reales de ninguna persona ni empresa.
+# Son solo ejemplos para practicar.
+fecha,descripcion,monto
+2026-11-01,Venta a cliente - Tienda La Esquina,4500.00
+2026-11-02,Pago a proveedor - Materiales del Sur,-1800.00
+2026-11-03,Gasolina - Estacion Veracruz,-600.00
+2026-11-04,Pago de luz - CFE,-350.00
+2026-11-05,Venta en linea - Cliente Ana,3200.00
+2026-11-06,Comida - Restaurante El Puerto,-280.00
+2026-11-07,Pago de internet,-450.00
+2026-11-08,Nomina - Sueldo empleado Luis,-5000.00
+2026-11-09,Ingreso por servicio de entrega,1500.00
+2026-11-10,Compra a proveedor - Insumos de oficina,-900.00
+2026-11-11,Gasolina - Estacion Boca del Rio,-550.00
+2026-11-12,Supermercado - Compra de comida,-750.00
+2026-11-13,Venta a cliente - Papeleria Central,2100.00
+2026-11-14,Pago de telefono,-300.00
+2026-11-15,Nomina - Sueldo empleada Maria,-5000.00
+2026-11-16,Pago cliente - Factura 102,1800.00
+2026-11-17,Transferencia sin descripcion clara,-120.00
+2026-11-18,Venta - Mercado local,950.00
